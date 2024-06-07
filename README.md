@@ -1,0 +1,1 @@
+This program will allow you to perform the following arithmetic operations:Area of a square, Perimeter of a rectangle, Area of a rectangle, Area of a triangle, Circumference of a circle and Area of a circle.
